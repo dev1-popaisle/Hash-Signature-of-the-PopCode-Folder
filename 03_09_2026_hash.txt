@@ -1,0 +1,5 @@
+d15cb85963c0b7a08f25fb7d6471fdf18e9edd7f566e287036e350f8f75be761  PopCode
+
+Method: SHA-256 over sorted regular files; each entry is <relative_path> NUL <file_sha256> newline.
+Root: /Users/popsie/Desktop/PopCode
+Files: 82155
